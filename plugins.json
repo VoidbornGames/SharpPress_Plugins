@@ -2,7 +2,7 @@
   "plugins": [
     {
       "Id": "0",
-      "Name": "Test Plugin",
+      "Name": "Newsletter",
       "Version": "1.0.0",
       "Author": "SharpPress Team",
       "Description": "Does nothing.",
