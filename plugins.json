@@ -2,13 +2,13 @@
   "plugins": [
     {
       "Id": "0",
-      "Name": "Newsletter",
+      "Name": "Site Builder",
       "Version": "1.0.0",
       "Author": "SharpPress Team",
-      "Description": "Does nothing.",
-      "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/MangaBee/icon.png",
-      "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/MangaBee/MangaBee.dll",
-      "MinVersion": "1.0.0"
+      "Description": "A block drag and drop site builder.",
+      "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/SiteBuilder/icon.png",
+      "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/SiteBuilder/SiteBuilder.dll",
+      "MinVersion": "1.1.0"
     }
   ]
 }
