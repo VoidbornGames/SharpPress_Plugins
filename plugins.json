@@ -19,6 +19,16 @@
       "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/RobotsTxtGenerator/icon.png",
       "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/RobotsTxtGenerator/RobotsTxt.dll",
       "MinVersion": "1.1.0"
+    },
+    {
+      "Id": "3",
+      "Name": "Hook It",
+      "Version": "1.0.0",
+      "Author": "SharpPress Team",
+      "Description": "Hook to any event and send a webhook post to any URL.",
+      "Icon": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/HookIt/icon.png",
+      "DownloadUrl": "https://github.com/VoidbornGames/SharpPress_Plugins/raw/refs/heads/main/HookIt/HookIt.dll",
+      "MinVersion": "1.2.1"
     }
   ]
 }
